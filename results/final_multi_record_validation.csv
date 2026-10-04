@@ -1,0 +1,6 @@
+record,lead,total_duration_s,excluded_flutter_duration_s,evaluable_duration_s,excluded_intervals,reference_beats_total,detected_beats_total,reference_beats_evaluable,detected_beats_evaluable,true_positives,false_positives,false_negatives,sensitivity,precision,f1_score
+100,MLII,60.0,0.0,60.0,0,74,74,74,74,74,0,0,1.0,1.0,1.0
+105,MLII,60.0,0.0,60.0,0,83,83,83,83,83,0,0,1.0,1.0,1.0
+108,MLII,60.0,0.0,60.0,0,58,59,58,59,56,3,2,0.9655172413793104,0.9491525423728814,0.9572649572649573
+200,MLII,60.0,0.0,60.0,0,87,86,87,86,84,2,3,0.9655172413793104,0.9767441860465116,0.9710982658959537
+207,MLII,60.0,15.475,44.525,2,45,70,45,42,41,1,4,0.9111111111111111,0.9761904761904762,0.9425287356321839

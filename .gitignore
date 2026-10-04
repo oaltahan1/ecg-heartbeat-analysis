@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Temporary / backup files
+*.tmp
+*.log
+*~
+*.bak
+
+# Local ECG dataset files
+# The project downloads MIT-BIH data from PhysioNet when needed.
+data/*
+!data/.gitkeep
+
+# Old experimental versions not needed on GitHub
+archive/
